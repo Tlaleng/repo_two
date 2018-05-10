@@ -1,0 +1,15 @@
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\bin\Debug\app_two.exe.config
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\bin\Debug\app_two.exe
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\bin\Debug\app_two.pdb
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.csprojResolveAssemblyReference.cache
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\MainWindow.g.cs
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\App.g.cs
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two_MarkupCompile.cache
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two_MarkupCompile.lref
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\MainWindow.baml
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.g.resources
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.Properties.Resources.resources
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.csproj.GenerateResource.cache
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.csproj.CoreCompileInputs.cache
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.exe
+C:\Users\Transnet employee4\Source\Repos\repo_two\app_two\obj\Debug\app_two.pdb
