@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Personal Details&#xD;&#xA;" HorizontalAlignment="Left" Margin="24,10,0,0" VerticalAlignment="Top" Width="166"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="38,52,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="101,55,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <RadioButton Content="Male" HorizontalAlignment="Left" Margin="101,129,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton Content="Female" HorizontalAlignment="Left" Margin="164,129,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="101,87,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Margin="38,118,0,0" VerticalAlignment="Top"/>
+        <Label Content="Surname" HorizontalAlignment="Left" Margin="38,87,0,0" VerticalAlignment="Top"/>
+
+
     </Grid>
 </Window>
